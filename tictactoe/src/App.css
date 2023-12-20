@@ -1,0 +1,23 @@
+body{
+ 
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.heading{
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+
+}
+
+.Board{
+  display:flex;
+  justify-content: center;
+}
+
